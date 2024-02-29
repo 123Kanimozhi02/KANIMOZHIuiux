@@ -8,3 +8,6 @@ how to done a new logo
 DAY 3
 HOW to download figma 
 figma tools
+DAY 4
+HOW TO USE FIGMA 
+TO CREATE A LOGO OR DISING IN FIGMA
