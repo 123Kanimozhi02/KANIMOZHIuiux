@@ -5,3 +5,6 @@ how to login github
 DAY 2
 about logo editing in ai illustration
 how to done a new logo 
+DAY 3
+HOW to download figma 
+figma tools
