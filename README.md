@@ -9,5 +9,6 @@ DAY 3
 HOW to download figma 
 figma tools
 DAY 4
-HOW TO USE FIGMA 
-TO CREATE A LOGO OR DISING IN FIGMA
+HOW TO USE Create email pages
+how tO  DISING IN FIGMA
+tools used to create a page
