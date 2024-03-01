@@ -12,3 +12,5 @@ DAY 4
 HOW TO USE Create email pages
 how tO  DISING IN FIGMA
 tools used to create a page
+DAY 5
+tools
