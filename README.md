@@ -37,3 +37,5 @@ main colour families and there meaning
   Green: Nature, Growth, Wealth
   Blue: Calm, Trust, Intelligent
   Violet: Luxury, Mystery, Spirituality 
+DAY 7
+colour combination 
