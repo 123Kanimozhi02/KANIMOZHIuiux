@@ -39,3 +39,9 @@ main colour families and there meaning
   Violet: Luxury, Mystery, Spirituality 
 DAY 7
 colour combination 
+DAY 8
+HOW TO DISN APPLICATION PAGES
+DAY 9
+
+DAY 10
+CREATE YOUR DIGITAL APPLICATION PLATFORM STRICH
